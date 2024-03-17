@@ -8,9 +8,9 @@
 </p>
 <br/><br/>
 
-# ⚡What is movie-web?
+# ⚡What is Watch?
 
-movie-web is a web app for watching movies easily.
+Watch is a web app for watching movies easily based on Movie-Web.
 
 This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
@@ -55,7 +55,7 @@ pnpm build
 
 # 🥔 Selfhosting
 
-A simple guide has been written to assist in hosting your own instance of movie-web. Check it out below
+A simple guide has been written to assist in hosting your own instance of watch. Check it out below
 
 |[Selfhosting guide](https://movie-web.github.io/docs)|
 |---|
