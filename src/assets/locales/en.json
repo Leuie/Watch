@@ -1,20 +1,20 @@
 {
   "about": {
-+    "description": "Watch is a web application that searches the internet for streams. The team aims for a mostly minimalistic approach to consuming content.",
+    "description": "watch is a web application that searches the internet for streams. The team aims for a mostly minimalistic approach to consuming content.",
     "faqTitle": "Common questions",
     "q1": {
-      "body": "Watch does not host any content. When you click on something to Watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by Watch, everything is through this searching mechanism.",
+      "body": "watch does not host any content. When you click on something to watch, the internet is searched for the selected media (On the loading screen and in the 'video sources' tab you can see which source you're using). Media never gets uploaded by watch, everything is through this searching mechanism.",
       "title": "Where does the content come from?"
     },
     "q2": {
-      "body": "It's not possible to request a show or movie, Watch does not manage any content. All content is viewed through sources on the internet.",
+      "body": "It's not possible to request a show or movie, watch does not manage any content. All content is viewed through sources on the internet.",
       "title": "Where can I request a show or movie?"
     },
     "q3": {
       "body": "Our search results are powered by The Movie Database (TMDB) and display regardless of whether our sources actually have the content.",
       "title": "The search results display the show or movie, why can't I play it?"
     },
-    "title": "About Watch"
+    "title": "About watch"
   },
   "actions": {
     "copied": "Copied",
@@ -82,7 +82,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Disclaimer",
-      "disclaimerText": "Watch does not host any files, it merely links to 3rd party services. Legal issues should be taken up with the file hosts and providers. Watch is not responsible for any media files shown by the video providers."
+      "disclaimerText": "watch does not host any files, it merely links to 3rd party services. Legal issues should be taken up with the file hosts and providers. watch is not responsible for any media files shown by the video providers."
     },
     "links": {
       "discord": "Discord",
@@ -92,13 +92,13 @@
     "tagline": "Watch your favourite shows and movies with this open source streaming app."
   },
   "global": {
-    "name": "Watch",
+    "name": "watch",
     "pages": {
       "about": "About",
       "dmca": "DMCA",
       "login": "Login",
       "onboarding": "Setup",
-      "pagetitle": "{{title}} - Watch",
+      "pagetitle": "{{title}} - watch",
       "register": "Register",
       "settings": "Settings"
     }
@@ -119,10 +119,10 @@
       "loading": "Loading...",
       "noResults": "We couldn't find anything!",
       "placeholder": {
-        "default": "What do you want to Watch?",
+        "default": "What do you want to watch?",
         "extra": [
           "What do you want to explore?",
-          "What's on your Watchlist?",
+          "What's on your watchlist?",
           "What's your favorite movie?",
           "What's your favorite series?"
         ]
@@ -131,17 +131,17 @@
     },
     "titles": {
       "day": {
-        "default": "What would you like to Watch this afternoon?",
+        "default": "What would you like to watch this afternoon?",
         "extra": [
           "Feeling adventurous? Jurassic Park might be the perfect choice."
         ]
       },
       "morning": {
-        "default": "What would you like to Watch this morning?",
+        "default": "What would you like to watch this morning?",
         "extra": ["I hear Before Sunrise is good"]
       },
       "night": {
-        "default": "What would you like to Watch tonight?",
+        "default": "What would you like to watch tonight?",
         "extra": ["Tired? I hear The Exorcist is good."]
       }
     }
@@ -232,7 +232,7 @@
           "title": "Custom proxy"
         }
       },
-      "title": "Let's get you setup with Watch"
+      "title": "Let's get you setup with watch"
     }
   },
   "overlays": {
@@ -248,11 +248,11 @@
     },
     "menus": {
       "downloads": {
-        "disclaimer": "Downloads are taken directly from the provider. Watch does not have control over how the downloads are provided.",
+        "disclaimer": "Downloads are taken directly from the provider. watch does not have control over how the downloads are provided.",
         "copyHlsPlaylist": "Copy HLS playlist link",
         "downloadSubtitle": "Download current subtitle",
         "downloadVideo": "Download video",
-        "hlsDisclaimer": "Downloads are taken directly from the provider. Watch does not have control over how the downloads are provided.<br /><br />Please note that you are downloading an HLS playlist, <bold>it is not recommended to download if you are not familiar with advanced streaming formats</bold>. Try different sources for different formats.",
+        "hlsDisclaimer": "Downloads are taken directly from the provider. watch does not have control over how the downloads are provided.<br /><br />Please note that you are downloading an HLS playlist, <bold>it is not recommended to download if you are not familiar with advanced streaming formats</bold>. Try different sources for different formats.",
         "onAndroid": {
           "1": "To download on Android, click the download button then, on the new page, <bold>tap and hold</bold> on the video, then select <bold>save</bold>.",
           "shortTitle": "Download / Android",
@@ -395,7 +395,7 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
-      "description": "Please verify that you are human by completing the Captcha on the right. This is to keep Watch safe!",
+      "description": "Please verify that you are human by completing the Captcha on the right. This is to keep watch safe!",
       "error": "Failed to verify your humanity. Please try again.",
       "title": "We need to verify that you're human.",
       "verifyingHumanity": "Verifying your humanity..."
@@ -403,7 +403,7 @@
   },
   "screens": {
     "dmca": {
-      "text": "Welcome to Watch's DMCA contact page! We respect intellectual property rights and want to address any copyright concerns swiftly. If you believe your copyrighted work has been improperly used on our platform, please send a detailed DMCA notice to the email below. Please include a description of the copyrighted material, your contact details, and a statement of good faith belief. We're committed to resolving these matters promptly and appreciate your cooperation in keeping Watch a place that respects creativity and copyrights.",
+      "text": "Welcome to watch's DMCA contact page! We respect intellectual property rights and want to address any copyright concerns swiftly. If you believe your copyrighted work has been improperly used on our platform, please send a detailed DMCA notice to the email below. Please include a description of the copyrighted material, your contact details, and a statement of good faith belief. We're committed to resolving these matters promptly and appreciate your cooperation in keeping watch a place that respects creativity and copyrights.",
       "title": "DMCA"
     },
     "loadingApp": "Loading application",
@@ -453,7 +453,7 @@
       },
       "register": {
         "cta": "Get started",
-        "text": "Share your Watch progress between devices and keep them synced.",
+        "text": "Share your watch progress between devices and keep them synced.",
         "title": "Sync to the cloud"
       },
       "title": "Account"
@@ -489,7 +489,7 @@
         },
         "redoSetup": "Redo setup",
         "successStatus": {
-          "description": "All things are in place for you to start Watching your favourite media.",
+          "description": "All things are in place for you to start watching your favourite media.",
           "title": "Everything is set up!"
         },
         "unsetStatus": {

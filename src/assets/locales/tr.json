@@ -1,20 +1,20 @@
 {
   "about": {
-    "description": "Watch internette akışlar için tarama yapan bir web uygulamasıdır. Ekip, içerik tüketmeye karşı ekseriyetle minimalist bir yaklaşım sergilemektedir.",
+    "description": "watch internette akışlar için tarama yapan bir web uygulamasıdır. Ekip, içerik tüketmeye karşı ekseriyetle minimalist bir yaklaşım sergilemektedir.",
     "faqTitle": "Sıkça sorulan sorular",
     "q1": {
-      "body": "Watch herhangi bir içerik barındırmaz. İzlemek için bir şeye tıkladığınızda, seçilen medya için internette arama yapılır (Yükleme ekranında ve 'video kaynakları' sekmesinde hangi kaynağı kullandığınızı görebilirsiniz). Medya hiçbir zaman Watch tarafından yüklenmez, her şey bu arama mekanizması aracılığıyla gerçekleşir.",
+      "body": "watch herhangi bir içerik barındırmaz. İzlemek için bir şeye tıkladığınızda, seçilen medya için internette arama yapılır (Yükleme ekranında ve 'video kaynakları' sekmesinde hangi kaynağı kullandığınızı görebilirsiniz). Medya hiçbir zaman watch tarafından yüklenmez, her şey bu arama mekanizması aracılığıyla gerçekleşir.",
       "title": "İçerikler nereden geliyor?"
     },
     "q2": {
-      "body": "Bir dizi veya film talep etmek mümkün değildir, Watch içeriklerin hiçbirini yönetmez. Tüm içerikler internet üzerindeki kaynaklar aracılığıyla görüntülenir.",
+      "body": "Bir dizi veya film talep etmek mümkün değildir, watch içeriklerin hiçbirini yönetmez. Tüm içerikler internet üzerindeki kaynaklar aracılığıyla görüntülenir.",
       "title": "Bir dizi veya filmi nereden talep edebilirim?"
     },
     "q3": {
       "body": "Arama sonuçlarımız The Movie Database (TMDB) tarafından desteklenmektedir ve kaynaklarımızın içeriğe gerçekten sahip olup olmadığına bakılmaksızın görüntülenir.",
       "title": "Arama sonuçları diziyi veya filmi gösteriyor, neden oynatamıyorum?"
     },
-    "title": "Watch hakkında"
+    "title": "watch hakkında"
   },
   "actions": {
     "copied": "Kopyalandı",
@@ -80,7 +80,7 @@
   "footer": {
     "legal": {
       "disclaimer": "Sorumluluk Reddi",
-      "disclaimerText": "Watch herhangi bir dosya barındırmaz, yalnızca 3. parti hizmetlere bağlantı verir. Yasal meseleler, dosya barındırıcıları ve sağlayıcıları ile görüşülmelidir. Watch, video sağlayıcıları tarafından gösterilen hiçbir medya dosyasından sorumlu değildir."
+      "disclaimerText": "watch herhangi bir dosya barındırmaz, yalnızca 3. parti hizmetlere bağlantı verir. Yasal meseleler, dosya barındırıcıları ve sağlayıcıları ile görüşülmelidir. watch, video sağlayıcıları tarafından gösterilen hiçbir medya dosyasından sorumlu değildir."
     },
     "links": {
       "discord": "Discord",
@@ -90,13 +90,13 @@
     "tagline": "Bu açık kaynaklı akış uygulamasıyla en sevdiğiniz dizileri ve filmleri izleyin."
   },
   "global": {
-    "name": "Watch",
+    "name": "watch",
     "pages": {
       "about": "Hakkında",
       "dmca": "DMCA",
       "login": "Giriş yap",
       "onboarding": "Kur",
-      "pagetitle": "{{title}} - Watch",
+      "pagetitle": "{{title}} - watch",
       "register": "Kayıt ol",
       "settings": "Ayarlar"
     }
@@ -178,10 +178,10 @@
     },
     "menus": {
       "downloads": {
-        "disclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. Watch'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur.",
+        "disclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. watch'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur.",
         "downloadSubtitle": "Geçerli altyazıyı indir",
         "downloadVideo": "Videoyu indir",
-        "hlsDisclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. Watch'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur. Lütfen bir HLS oynatma listesi indirdiğinizi unutmayın; bu, gelişmiş multimedya akışına aşina olan kullanıcılara yöneliktir.",
+        "hlsDisclaimer": "İndirme bağlantıları doğrudan sağlayıcının kendisinden alınır. watch'in sağlanan indirme bağlantıları üzerinde hiçbir konrolü yoktur. Lütfen bir HLS oynatma listesi indirdiğinizi unutmayın; bu, gelişmiş multimedya akışına aşina olan kullanıcılara yöneliktir.",
         "onAndroid": {
           "1": "Android'e indirmek için önce indir butonuna basın, sonra açılan yeni sayfada video üzerine <bold>basılı tutun</bold>, ardından <bold>Videoyu indir</bold> seçeneğini seçin.",
           "shortTitle": "İndir / Android",
@@ -313,7 +313,7 @@
       "shortRemaining": "-{{timeLeft}}"
     },
     "turnstile": {
-      "description": "Lütfen sağ taraftaki Captcha'yı çözerek insan olduğunuzu doğrulayın. Bu, Watch'i güvende tutmak içindir!",
+      "description": "Lütfen sağ taraftaki Captcha'yı çözerek insan olduğunuzu doğrulayın. Bu, watch'i güvende tutmak içindir!",
       "error": "İnsan olduğunuz doğrulanamadı. Lütfen tekrar deneyin.",
       "title": "İnsan olduğunuzu doğrulamamız gerekiyor.",
       "verifyingHumanity": "İnsan olduğunuz doğrulanıyor..."
@@ -321,7 +321,7 @@
   },
   "screens": {
     "dmca": {
-      "text": "Watch'in DMCA iletişim sayfasına hoş geldiniz! Fikri mülkiyet haklarına saygı duyuyoruz ve telif hakkıyla ilgili endişeleri hızlı bir şekilde ele almak istiyoruz. Telif hakkıyla korunan çalışmanızın platformumuzda uygunsuz şekilde kullanıldığını düşünüyorsanız lütfen aşağıdaki e-postaya ayrıntılı bir DMCA bildirimi gönderin. Lütfen telif hakkıyla korunan materyalin açıklamasını, iletişim bilgilerinizi ve iyi niyet beyanınızı ekleyin. Bu sorunları derhal çözmeye kararlıyız ve ayrıca Watch'i yaratıcılığa ve telif haklarına saygılı bir yer olarak tutma konusundaki işbirliğiniz için teşekkür ederiz.",
+      "text": "watch'in DMCA iletişim sayfasına hoş geldiniz! Fikri mülkiyet haklarına saygı duyuyoruz ve telif hakkıyla ilgili endişeleri hızlı bir şekilde ele almak istiyoruz. Telif hakkıyla korunan çalışmanızın platformumuzda uygunsuz şekilde kullanıldığını düşünüyorsanız lütfen aşağıdaki e-postaya ayrıntılı bir DMCA bildirimi gönderin. Lütfen telif hakkıyla korunan materyalin açıklamasını, iletişim bilgilerinizi ve iyi niyet beyanınızı ekleyin. Bu sorunları derhal çözmeye kararlıyız ve ayrıca watch'i yaratıcılığa ve telif haklarına saygılı bir yer olarak tutma konusundaki işbirliğiniz için teşekkür ederiz.",
       "title": "DMCA"
     },
     "loadingApp": "Uygulama yükleniyor",
